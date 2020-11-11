@@ -21,6 +21,12 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  cached_network_image:
+  shimmer: ^1.1.2
+  flushbar: ^1.10.4
+  youtube_player_flutter: ^7.0.0+7
+  http: 
+  animations: ^1.1.0
   flutter:
     sdk: flutter
 

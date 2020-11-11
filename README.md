@@ -1,6 +1,20 @@
-# movie_app_concept
+# Function(movie)
 
-A new Flutter project.
+# UI concept for MovieDB with:
+- API calls from tmdb
+- Animated MovieCards
+- Youtube Player
+
+Compatible Codebase for Android and iOS
+
+Framework - Flutter
+
+# Steps to Reproduce:
+- Generate an API from themoviedb.org and replace it with API_KEY in ```home.dart```
+
+
+<img src="page1.png" width="520" height="1030"> </img> <img src="page2.png" width="520" height="1030"> </img>
+
 
 ## Getting Started
 
